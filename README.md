@@ -1,8 +1,8 @@
-This project using React, TypeScript and Vite
+This project using React, TypeScript, Tailwind and Vite
 
 To install - npm install 
 
-To run - npm dev run
+To run - npm run dev
 
 This app allows the user to search for location by typing search term in the search box as below
 
